@@ -12,7 +12,7 @@ Docker image that runs rstudio server. Inspired by [this rstudio-server docker](
 == Run Image ==
 
 ```
-./run_images.sh
+./run_image.sh
 ```
 
 Edit this script to change the port, if needed.
